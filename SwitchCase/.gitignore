@@ -39,3 +39,4 @@ Build Scripts
 Java Dependencies
 
 gradle/wrapper
+ gradlew.bat
