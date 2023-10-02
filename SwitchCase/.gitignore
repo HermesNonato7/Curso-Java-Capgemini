@@ -39,6 +39,10 @@ Build Scripts
 Java Dependencies
 
 gradle/wrapper
+<<<<<<< Upstream, based on origin/master
 
 .gradlew.bat
 gradlew.bat
+=======
+ gradlew.bat
+>>>>>>> 017a0bc Merge origin/master
